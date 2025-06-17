@@ -1,0 +1,17 @@
+Suburb, Name of the suburb where the property is located
+Address, Street address of the property
+Rooms, Number of rooms in the property (excluding bathrooms and other non-living spaces)
+Price, Sale price of the property in Australian dollars (AUD)
+Method," Method of sale (e.g., S = property sold, SP = property sold prior, PI = property passed in, PN = sold prior not disclosed, SN = sold not disclosed, VB = vendor bid, W = withdrawn prior to auction, SA = sold after auction)"
+Type," Type of property (e.g., h = house, t = townhouse, u = unit/apartment)"
+SellerG, Real estate agency or agent handling the sale
+Date, Date of the sale
+Distance, Distance from the property to Melbourne central business district (CBD) in kilometers
+Regionname," Name of the region where the property is located (e.g., Eastern Metropolitan, Northern Metropolitan, Southern Metropolitan, Western Metropolitan)"
+Propertycount, Number of properties that exist in the suburb
+Bedroom2, Number of bedrooms in the property (including any non-living spaces that could be used as bedrooms)
+Bathroom, Number of bathrooms in the property
+Car, Number of car spaces associated with the property
+Landsize, Land size of the property in square meters
+BuildingArea, Total building area of the property in square meters
+CouncilArea, Name of the local government area where the property is located
