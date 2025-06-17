@@ -1,6 +1,6 @@
 # 🏡 Melbourne Property Price Prediction (Python)
 
-This project analyzes housing data from Melbourne to predict property prices using machine learning techniques. It includes data cleaning, exploratory analysis, feature engineering, and model building with scikit-learn.
+This project analyses housing data from Melbourne to predict property prices using machine learning techniques. It includes data cleaning, exploratory analysis, feature engineering, and model building with scikit-learn.
 
 ---
 
